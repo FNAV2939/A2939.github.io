@@ -4,11 +4,10 @@
 <p align="center"><img align="left" img src="assets/img/2939logoA.png" width="170"><img align="right" img src="assets/img/kofc9.jpg" width="250"></p>
 </div>
 <br>
-<hr>
 <div>
 <p align="center">
 
-*IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES*
+<h2>IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES</h2>
 
 </p>
 <p>
