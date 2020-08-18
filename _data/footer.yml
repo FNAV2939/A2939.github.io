@@ -3,7 +3,7 @@
 # Configuration for type of footer.
 # Footer types can be 'slim', 'default', or 'big'.
 # https://designsystem.digital.gov/components/footers/
-type: default
+type: slim
 
 # Configuration for "Return to top" link.
 # Customize with 'text' and 'href' properties.
@@ -15,12 +15,12 @@ top:
 # Configuration for "Edit this page" link in the footer.
 # Customize with 'text' property.
 # Uncomment the following lines to show.
-#edit_page:
-#  text: Edit this page
+edit_page:
+  text: Edit this page
 
 # Configuration for "Last updated" date and time.
 # Uncomment the following line to show.
-last_updated: false
+last_updated: true
 
 # Configuration for which links show at the top of the footer.
 # this is a key into _data/navigation.yml
@@ -32,40 +32,39 @@ links: footer
 big_footer_signup_form: false
 
 # Configuration for footer heading. (optional)
-heading: Name of agency
+heading: Knights of Columbus 4th Degree St. Pope John Paul II Assembly 2939
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 logos:
-  - src: https://18f.gsa.gov/assets/img/logos/18f-logo.svg
-    alt: 18F
-    external: true
+  - src: /assets/img/2939logoA.png
+    alt: A2939
 
 # Configuration for footer contact links
 contact:
   # Configuration for social media links
   # Comment out links you don't want to use (RSS is an example)
-  social_links:
-    - text: Facebook
-      href: https://facebook.com
-      external: true
-      type: facebook
-    - text: Twitter
-      href: https://twitter.com
-      external: true
-      type: twitter
-    - text: YouTube
-      href: https://youtube.com
-      external: true
-      type: youtube
+  #social_links:
+#    - text: Facebook
+#      href: https://facebook.com
+#      external: true
+#      type: facebook
+#    - text: Twitter
+#      href: https://twitter.com
+#      external: true
+#      type: twitter
+#    - text: YouTube
+#      href: https://youtube.com
+#      external: true
+#      type: youtube
   # - text: RSS Feed
   #   href: https://usa.gov/
   #   external: true
   #   type: rss
-  heading: Agency contact center
+  heading: Faithful Scribe Contact Center
   # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: (800) CALL-GOVT
-      href: tel:1-800-555-5555
-    - text: info@agency.gov
-      href: mailto:info@agency.gov
+    - text: (408) 966-1682
+      href: tel:1-408-966-1682
+    - text: kd6kxr@gmail.com
+      href: mailto:kd6kxr@gmail.com
