@@ -36,21 +36,6 @@
   $theme-sidenav-breakpoint: '{{ site.data.navigation.sidenav-breakpoint }}';
 {% endif %}
 
-// Banner colors
-{% assign colors_banner = site.data.theme.colors.usa-banner %}
-{% if colors_banner.usa-banner-bg %}
-  $usa-banner-bg: '{{ colors_banner.usa-banner-bg }}';
-{% endif %}
-{% if colors_banner.usa-banner-text %}
-  $usa-banner-text: '{{ colors_banner.usa-banner-text }}';
-{% endif %}
-{% if colors_banner.usa-banner-link %}
-  $usa-banner-link: '{{ colors_banner.usa-banner-link }}';
-{% endif %}
-{% if colors_banner.usa-banner-link-hover %}
-  $usa-banner-link-hover: '{{ colors_banner.usa-banner-link-hover }}';
-{% endif %}
-
 // Header colors
 {% assign colors_header = site.data.theme.colors.header %}
 {% if colors_header.header-bg %}
