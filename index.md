@@ -1,10 +1,5 @@
 
-<div>
-<div>
-<p align="center"><img align="left" img src="assets/img/2939logoA.png" width="95"><img align="right" img src="assets/img/kofc9.jpg" width="230"></p>
-</div>
-<br>
-  
+
 <div style="text-align: justify">
 
 <p>
@@ -19,3 +14,9 @@ the Knights' respective countries through membership in local Fourth Degree grou
   Assemblies.</p>
 </div>
 
+<div>
+<div>
+<p align="center"><img align="left" img src="assets/img/2939logoA.png" width="125"><img align="right" img src="assets/img/kofc9.jpg" width="230"></p>
+</div>
+<br>
+  
