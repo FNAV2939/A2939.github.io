@@ -1,6 +1,6 @@
 # Assembly Programs
 
-<p align="center"><img src="assets/img/waa.jpg" width="300"><br>Remember | Honor | Teach</p>
+<p align="center"><img src="../assets/img/waa.jpg" width="300"><br>Remember | Honor | Teach</p>
 
 ## Wreaths Across America
 
@@ -9,7 +9,7 @@ There is nothing more patriotic than honoring the graves of our fallen local
 Veteran Heroes. For the past three years we have made this a major project both 
 financially and as a service project. 
 
-<p align="center"><img src="assets/img/chalise2.jpg" width="300"></p>
+<p align="center"><img src="../assets/img/chalise2.jpg" width="300"></p>
 
 ## Chalice Program
 
