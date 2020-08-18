@@ -21,6 +21,9 @@ primary:
       - text: Knights of Columbus
         href: https://www.kofc.org/en/index.html
         external: true
+      - text: St. Mary Parish, Gilroy, CA
+        href: https://smpgilroy.org/
+        external: true
       - text: St. Catherine of Alexandria Parish, Morgan Hill, CA
         href: https://stca.org/
         external: true
