@@ -37,10 +37,10 @@ primary:
     external: true
 
 secondary:
-  - text: Documentation
-    href: /docs/
-  - text: Theme
-    href: /theme/
+  - text: Council 8265 Morgan Hill, CA
+    href: https://stca.org/knights-of-columbus
+  - text: Council Gilroy
+    href: /link/
 
 docs:
   - text: Sidenav Documentation
@@ -56,7 +56,7 @@ docs:
   - text: Sidenav Referenced section
     links: footer
   - text: Sidenav External link
-    href: https://18f.gsa.gov
+    href: https://www.kofc.org/en//index.html
     external: true
 
 footer:
@@ -83,14 +83,14 @@ footer:
   - text: External links
     href: /docs/
     links:
-      - text: 18F
-        href: https://18f.gsa.gov
+      - text: KofC
+        href: https://www.kofc.org/en//index.html
         external: true
-      - text: Technology Transformation Service
-        href: https://join.tts.gsa.gov/
+      - text: DSJ
+        href: hhttps://www.dsj.org/
         external: true
-      - text: code.gov
-        href: https://code.gov/
+      - text: USCCB
+        href: https://www.usccb.org/
         external: true
   - text: Privacy policy
     href: /docs/
