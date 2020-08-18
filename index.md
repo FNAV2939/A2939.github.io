@@ -4,7 +4,8 @@
 <p align="center"><img align="left" img src="assets/img/2939logoA.png" width="160"><img align="right" img src="assets/img/kofc9.jpg" width="230"></p>
 </div>
 <br>
-<div>
+  
+<div style="text-align: justify">
 <p align="center">
 
 <h2>IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES</h2>
