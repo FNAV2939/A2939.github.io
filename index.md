@@ -9,4 +9,4 @@ Assemblies.
 <div>
 <p align="center"><img align="left" img src="assets/img/2939logoA.png" width="250"><img align="right" img src="assets/img/kofc9.jpg" width="300"></p>
 </div>
-<pre>       IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES        </pre>
+####IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES
