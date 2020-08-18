@@ -3,7 +3,7 @@
 # Configuration for type of footer.
 # Footer types can be 'slim', 'default', or 'big'.
 # https://designsystem.digital.gov/components/footers/
-type: big
+type: default
 
 # Configuration for "Return to top" link.
 # Customize with 'text' and 'href' properties.
@@ -61,8 +61,7 @@ contact:
   #   href: https://usa.gov/
   #   external: true
   #   type: rss
-  heading: Ruben Dominguez, Faithful Navigator
-  heading: Faithful Scribe Contact Center
+  heading: A2939 Faithful Scribe Contact Center
   # Configuration for contact links for email, phone, etc...
   contact_links:
     - text: (408) 966-1682
