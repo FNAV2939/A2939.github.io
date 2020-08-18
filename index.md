@@ -6,11 +6,7 @@
 <br>
   
 <div style="text-align: justify">
-<p align="center">
 
-<h2>IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES</h2>
-
-</p>
 <p>
   
 <b>The Fourth Degree</b> is the patriotic degree of the order. On February 22, 1900, the first
