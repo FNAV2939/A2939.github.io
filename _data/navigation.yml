@@ -10,14 +10,20 @@ sidenav-breakpoint: 'desktop'
 # can use that as your header's primary navigation by setting
 # `primary.links` to "primary":
 #
-primary:
-  links: primary
+#primary:
+#  links: primary
 
 primary:
-  - text: Assembly Programs and Projects
+  - text: Assembly Programs & Projects
     href: /docs/
   - text: Navigation section
     links:
+      - text: St. Catherine of Alexandria Council no.8265 Morgan Hill, CA
+        href: https://stca.org/knights-of-columbus
+        external: true
+      - text: St. Mary Council no.2469 Gilroy, CA
+        href: https://kofc2469.org/
+        external: true
       - text: Knights of Columbus
         href: https://www.kofc.org/en/index.html
         external: true
@@ -37,11 +43,13 @@ primary:
         href: http://www.vatican.va/content/vatican/en.html
         external: true
 secondary:
-  - text: St. Catherine of Alexandria Council no.8265 Morgan Hill, CA
+  - text: St. Catherine of Alexandria Council 8265 Morgan Hill, CA
     href: https://stca.org/knights-of-columbus
-  - text: St. Mary Council no.2469 Gilroy, CA
+    external: true
+  - text: St. Mary Council 2469 Gilroy, CA
     href: https://kofc2469.org/
-
+    external: true
+        
 docs:
   - text: Sidenav Documentation
     href: /docs/
@@ -93,7 +101,7 @@ footer:
         href: https://www.usccb.org/
         external: true
   - text: Privacy policy
-    href: /docs/
+    href: /priv/
 #   links:
 #     - text: Demo link A
 #       href: /three/a/
