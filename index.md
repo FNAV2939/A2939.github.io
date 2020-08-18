@@ -7,9 +7,12 @@ spirit of patriotism by promoting responsible citizenship and a love of and loya
 the Knights' respective countries through membership in local Fourth Degree groups called
 Assemblies.
 <div>
+<div>
 <p align="center"><img align="left" img src="assets/img/2939logoA.png" width="200"><img align="right" img src="assets/img/kofc9.jpg" width="300"></p>
 </div>
 <br>
+<hr>
 <div>
 <p align="center">IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES</p>
+</div>
 </div>
