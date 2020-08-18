@@ -22,4 +22,4 @@ spirit of patriotism by promoting responsible citizenship and a love of and loya
 the Knights' respective countries through membership in local Fourth Degree groups called
   Assemblies.</p>
 </div>
-</div>
+
