@@ -1,7 +1,7 @@
 
 <div>
 <div>
-<p align="center"><img align="left" img src="assets/img/2939logoA.png" width="170"><img align="right" img src="assets/img/kofc9.jpg" width="250"></p>
+<p align="center"><img align="left" img src="assets/img/2939logoA.png" width="160"><img align="right" img src="assets/img/kofc9.jpg" width="230"></p>
 </div>
 <br>
 <div>
@@ -12,7 +12,7 @@
 </p>
 <p>
   
-**The Fourth Degree** is the patriotic degree of the order. On February 22, 1900, the first
+<b>The Fourth Degree</b> is the patriotic degree of the order. On February 22, 1900, the first
 exemplification of the Fourth Degree was held in New York City. To the three principles
 of our Order: Charity, Unity and Fraternity, the final lesson that was added is the virtue
 of patriotism. The focus of the Fourth Degree is on this principle, an abiding love for
