@@ -17,8 +17,6 @@ primary:
   - text: Documentation
     href: /docs/
   - text: Navigation section
-    - text: External links
-    href: /docs/
     links:
       - text: Knights of Columbus
         href: https://www.kofc.org/en/index.html
