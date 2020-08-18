@@ -1,7 +1,7 @@
 
 <div>
 <div>
-<p align="center"><img align="left" img src="assets/img/2939logoA.png" width="160"><img align="right" img src="assets/img/kofc9.jpg" width="230"></p>
+<p align="center"><img align="left" img src="assets/img/2939logoA.png" width="120"><img align="right" img src="assets/img/kofc9.jpg" width="230"></p>
 </div>
 <br>
   
