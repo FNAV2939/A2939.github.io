@@ -17,30 +17,29 @@ primary:
   - text: Documentation
     href: /docs/
   - text: Navigation section
+    - text: External links
+    href: /docs/
     links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-      - text: Demo link D
-        href: /two/a/
-      - text: Demo link E
-        href: /two/b/
-      - text: Demo link F
-        href: /two/c/
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
-
+      - text: Knights of Columbus
+        href: https://www.kofc.org/en/index.html
+        external: true
+      - text: St. Catherine of Alexandria Parish, Morgan Hill, CA
+        href: https://stca.org/
+        external: true
+      - text: Diocese of San Jose
+        href: https://www.dsj.org/
+        external: true
+      - text: United States Conference of Catholic Bishops
+        href: https://www.usccb.org/
+        external: true
+      - text: The Vatican
+        href: http://www.vatican.va/content/vatican/en.html
+        external: true
 secondary:
-  - text: Council 8265 Morgan Hill, CA
+  - text: St. Catherine of Alexandria Council no.8265 Morgan Hill, CA
     href: https://stca.org/knights-of-columbus
-  - text: Council Gilroy
-    href: /link/
+  - text: St. Mary Council no.2469 Gilroy, CA
+    href: https://kofc2469.org/
 
 docs:
   - text: Sidenav Documentation
