@@ -6,7 +6,6 @@ and devotion to one's country. The primary purpose of the Fourth Degree is to fo
 spirit of patriotism by promoting responsible citizenship and a love of and loyalty to
 the Knights' respective countries through membership in local Fourth Degree groups called
 Assemblies.
-
-<p align="center"><img src="assets/img/2939logoA.png" width="350"></p>
-
-<p align="center"><img src="assets/img/kofc9.jpg" width="350"></p>
+<div>
+<p align="center"><img align="left" img src="assets/img/2939logoA.png" width="250"><pre>       IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES        </pre><img align="right" img src="assets/img/kofc9.jpg" width="30"></p>
+</div>
