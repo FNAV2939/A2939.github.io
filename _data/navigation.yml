@@ -14,7 +14,7 @@ primary:
   links: primary
 
 primary:
-  - text: Documentation
+  - text: Assembly Programs and Projects
     href: /docs/
   - text: Navigation section
     links:
