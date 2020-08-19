@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td> </td>
-    <td><img src="../assets/img/waa.jpg" width="300" alt="Wreaths Across America"><br>Remember | Honor | Teach</td>
+    <td><br><br><img src="../assets/img/waa.jpg" width="300" alt="Wreaths Across America"><br>Remember | Honor | Teach</td>
     <td> </td>
   </tr>
   <tr>
@@ -19,9 +19,10 @@ Veteran Heroes. For the past three years we have made this a major project both
 financially and as a service project. </td>
     <td> </td>
   </tr>
+  <tr></tr>  <tr></tr>  <tr></tr>  <tr></tr>  <tr></tr>
   <tr>
     <td> </td>
-    <td><img src="../assets/img/chalise2.jpg" width="300" alt="Chalice"></td>
+    <td><br><br><img src="../assets/img/chalise2.jpg" width="300" alt="Chalice"></td>
     <td> </td>
   </tr>
   <tr>
@@ -34,9 +35,10 @@ member. Please contact the worthy Comptroller to take part in this program.
 </td>
     <td> </td>
   </tr>
+  <tr></tr>  <tr></tr>  <tr></tr>  <tr></tr>  <tr></tr>
   <tr>
     <td> </td>
-    <td><img src="../assets/img/4thdeg.jpg" width="400" alt="Fourth Dregree Honor Guard Regalia"></td>
+    <td><br><br><img src="../assets/img/4thdeg.jpg" width="400" alt="Fourth Dregree Honor Guard Regalia"></td>
     <td> </td>
   </tr>
   <tr>
