@@ -15,3 +15,15 @@ The Chalice program is available to any member of the assembly. Members who join
 program agree to purchase a chalice to be given to a priest after the passing of the
 member. The members name is engraved on the base of the chalice as a memorial to that
 member. Please contact the worthy Comptroller to take part in this program.
+
+<p align="center"><img src="../assets/img/4thdeg.jpg" width="300"></p>
+
+## Honor Guard Regalia
+
+During the convention, the Good of the Order Committee stated: “We commend all of the
+faithful Sir Knights who have proudly worn the Fourth Degree regalia, bringing much
+respect to the Order. With the new Fourth Degree uniform, recently approved by the Board
+of Directors, this honor and respect associated with Sir Knights will remain, and it will
+open the door more widely for a new generation to join their ranks. In a spirit of unity,
+let us assist with a smooth transition to this new uniform and encourage it to be worn
+with great dignity and pride.”
