@@ -8,8 +8,9 @@
 <img align="center" img src="assets/img/vakeys.png" width="110">
 <img align="right" img src="assets/img/kofc9.jpg" width="230">
 </p>
+<center><b>IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES</center></b>
 <br>
 <br>
 <br>
 
-**IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES**
+
