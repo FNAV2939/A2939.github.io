@@ -5,7 +5,11 @@
 <img align="left" img src="assets/img/2939logoA.png" width="125">
 <img align="center" img src="assets/img/usflag1A.jpg" width="180">
 <img align="center" img src="assets/img/calflag1A.jpg" width="150">
-  <img align="center" img src="assets/img/vakeys.png" width="110">
-<img align="right" img src="assets/img/kofc9.jpg" width="230"></p>
+<img align="center" img src="assets/img/vakeys.png" width="110">
+<img align="right" img src="assets/img/kofc9.jpg" width="230">
+</p>
 <br>
 </div>
+<br>
+<hr>
+<br>
