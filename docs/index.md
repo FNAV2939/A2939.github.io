@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -15,6 +18,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
+</head>
 <table>
   <tr>
     <th> </th>
@@ -70,3 +74,4 @@ with great dignity and pride.”
     <td> </td>
   </tr>
 </table>
+</html>
