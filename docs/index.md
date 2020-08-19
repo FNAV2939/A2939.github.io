@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td> </td>
-    <td><br><br><img src="../assets/img/waa.jpg" width="350" alt="Wreaths Across America"><br><br>
+    <td><br><br><img src="../assets/img/waa.jpg" width="350" alt="Wreaths Across America">
    </td>
     <td> </td>
   </tr>
@@ -23,7 +23,7 @@ financially and as a service project. </td><hr>
   <tr></tr>  <tr></tr>  <tr></tr>  <tr></tr>  <tr></tr>
   <tr>
     <td> </td>
-    <td><br><br><img src="../assets/img/chalise2.jpg" width="300" alt="Chalice"></td>
+    <td><br><br><img src="../assets/img/chalise2.jpg" width="400" alt="Chalice"></td>
     <td> </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ member. Please contact the worthy Comptroller to take part in this program.
   <tr></tr>  <tr></tr>  <tr></tr>  <tr></tr>  <tr></tr>
   <tr>
     <td> </td>
-    <td><br><br><img src="../assets/img/4thdeg.jpg" width="400" alt="Fourth Dregree Honor Guard Regalia"></td>
+    <td><br><br><img src="../assets/img/4thdeg.jpg" width="600" alt="Fourth Dregree Honor Guard Regalia"></td>
     <td> </td>
   </tr>
   <tr>
