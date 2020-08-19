@@ -37,7 +37,7 @@ member. Please contact the worthy Comptroller to take part in this program.
   </tr>
   <tr>
     <td> </td>
-    <td><img src="../assets/img/4thdeg.jpg" width="400" alt="Fourth Dregree Honor Guard Regalia"</td>
+    <td><img src="../assets/img/4thdeg.jpg" width="400" alt="Fourth Dregree Honor Guard Regalia"></td>
     <td> </td>
   </tr>
   <tr>
