@@ -7,7 +7,6 @@ This Privacy Policy explains how information is collected, used and disclosed by
 
 2. Information usage
 > Your information will not be shared with others and is only used internally for the purposes described below:
-
 >>    to provide our services or information you request, and to process and complete any transactions;
 >>    to respond to your emails, submissions, questions, comments, requests, and complaints and provide customer service;
 >>    to send you confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and   operation of, our services;
