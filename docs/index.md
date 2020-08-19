@@ -1,5 +1,3 @@
-# Assembly Programs
-
 <p align="center"><img src="../assets/img/waa.jpg" width="300"><br>Remember | Honor | Teach</p>
 
 ## Wreaths Across America
