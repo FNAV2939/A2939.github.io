@@ -6,9 +6,10 @@
 <img align="center" img src="assets/img/usflag1A.jpg" width="180">
 <img align="center" img src="assets/img/calflag1A.jpg" width="150">
 <img align="center" img src="assets/img/vakeys.png" width="110">
-<p align="center">IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES</p>
 <img align="right" img src="assets/img/kofc9.jpg" width="230">
 </p>
 <br>
 <br>
 <br>
+
+**IN SERVICE TO THE MORGAN HILL AND GILROY COMMUNITIES**
