@@ -1,9 +1,11 @@
 remote-theme: 18F/uswds-jekyll
-title: St. Pope John Paul II Assembly #2939
-description: Knights of Columbus 4th Degree Assembly 2939, Gilroy/Morgan Hill,CA
+title: Knights of Columbus 4th Degree Pope John Paul II Assembly 2939, Gilroy/Morgan Hill,CA
+description: Knights of Columbus 4th Degree Pope John Paul II Assembly 2939, Gilroy/Morgan Hill,CA
 
 frontpagestuff:
-  callout: Knights of Columbus 4th Degree
+  callout:
+    alt: Knights of Columbus 4th Degree
+    text:
   callout: 
     alt: Pope John Paul II Assembly 2939 Gilroy/Morgan Hill, CA
     text: 
