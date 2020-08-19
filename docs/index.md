@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td> </td>
-    <td><h2><em>Wreaths Across America</em></h2><br>
+    <td><h1><em>Wreaths Across America</em></h1><br>
 
 The Fourth Degree of the Knights of Columbus is the PATRIOTIC degree of the Order. 
 There is nothing more patriotic than honoring the graves of our fallen local
@@ -28,7 +28,7 @@ financially and as a service project. </td>
   <tr>
     <td> </td>
     <td>
-      <h2><em>The Chalice Program</em></h2> is available to any member of the assembly. Members who join the
+      <h1><em>The Chalice Program</em></h1> is available to any member of the assembly. Members who join the
 program agree to purchase a chalice to be given to a priest after the passing of the
 member. The members name is engraved on the base of the chalice as a memorial to that
 member. Please contact the worthy Comptroller to take part in this program.
@@ -42,7 +42,7 @@ member. Please contact the worthy Comptroller to take part in this program.
   </tr>
   <tr>
     <td> </td>
-  <td><h2><em>Honor Guard Regalia</em></h2><br>
+  <td><h1><em>Honor Guard Regalia</em></h1><br>
     During the convention, the Good of the Order Committee stated: “We commend all of the
 faithful Sir Knights who have proudly worn the Fourth Degree regalia, bringing much
 respect to the Order. With the new Fourth Degree uniform, recently approved by the Board
