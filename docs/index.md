@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
 <table>
   <tr>
     <th> </th>
@@ -57,4 +53,3 @@ with great dignity and pride.”
     <td> </td>
   </tr>
 </table>
-</html>
