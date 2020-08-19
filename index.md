@@ -8,5 +8,4 @@
   <img align="center" img src="assets/img/vakeys.png" width="110">
 <img align="right" img src="assets/img/kofc9.jpg" width="230"></p>
 <br>
-</div>  
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+</div>
