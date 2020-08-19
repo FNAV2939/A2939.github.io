@@ -1,4 +1,4 @@
-# Privacy Policy
+<h1>Privacy Policy</h1>
 This Privacy Policy explains how information is collected, used and disclosed by `A2939.github.io` with respect to user’s access and use of our service through the application (Referred to below as “A2939”).
 
 1. Information collection
