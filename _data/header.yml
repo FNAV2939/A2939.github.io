@@ -12,7 +12,7 @@ type: extended-mega
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: /assets/img/usflag1A.jpg
+  src: /assets/img/4th_degree-clr.png
   alt: A2939
 
 # this is a key into _data/navigation.yml
