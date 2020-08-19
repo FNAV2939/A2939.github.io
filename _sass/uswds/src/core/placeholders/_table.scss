@@ -22,8 +22,8 @@
 
   th,
   td {
-    @include u-border(1px, "base-dark");
-    background-color: color("white");
+    @include u-border(0px, "base-dark");
+    background-color: color("grey");
     font-weight: $theme-font-weight-normal;
     padding: units(1) units(2);
   }
