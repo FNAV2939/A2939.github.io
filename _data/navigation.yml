@@ -18,17 +18,20 @@ primary:
     href: /docs/
   - text: Navigation section
     links:
+      - text: 'Knights of Columbus 4th Degree ✞ Pope John Paul II Assembly 2939'
+        href: https://a2939.github.io
+        external: true
       - text: St. Catherine of Alexandria Council 8265 Morgan Hill, CA
         href: https://stca.org/knights-of-columbus
         external: true
-      - text: St. Mary Council 2469 Gilroy, CA
+      - text: St. Catherine of Alexandria Parish, Morgan Hill, CA
+        href: https://stca.org/
+        external: true
+     - text: St. Mary Council 2469 Gilroy, CA
         href: https://kofc2469.org/
         external: true
       - text: St. Mary Parish, Gilroy, CA
         href: https://smpgilroy.org/
-        external: true
-      - text: St. Catherine of Alexandria Parish, Morgan Hill, CA
-        href: https://stca.org/
         external: true
       - text: Diocese of San Jose
         href: https://www.dsj.org/
@@ -89,37 +92,13 @@ footer:
       - text: Demo link C
         href: /two/c/
   - text: External links
-    links:
-      - text: St. Catherine of Alexandria Council 8265 Morgan Hill, CA
-        href: https://stca.org/knights-of-columbus
-        external: true
-      - text: St. Mary Council 2469 Gilroy, CA
-        href: https://kofc2469.org/
-        external: true
-      - text: St. Mary Parish, Gilroy, CA
-        href: https://smpgilroy.org/
-        external: true
-      - text: St. Catherine of Alexandria Parish, Morgan Hill, CA
-        href: https://stca.org/
-        external: true
-      - text: Diocese of San Jose
-        href: https://www.dsj.org/
-        external: true
-      - text: United States Conference of Catholic Bishops
-        href: https://www.usccb.org/
-        external: true
-      - text: Knights of Columbus
-        href: https://www.kofc.org/en/index.html
-        external: true
-      - text: The Vatican
-        href: http://www.vatican.va/content/vatican/en.html
-        external: true
+    href: /ext/
   - text: Privacy policy
     href: /priv/
-#   links:
-#     - text: Demo link A
-#       href: /three/a/
-#     - text: Demo link B
-#       href: /three/b/
-#     - text: Demo link C
-#       href: /three/c/
+   links:
+     - text: Demo link A
+       href: /three/a/
+     - text: Demo link B
+       href: /three/b/
+     - text: Demo link C
+       href: /three/c/
