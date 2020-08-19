@@ -170,7 +170,7 @@ $theme-font-type-mono: "roboto-mono" !default;
 $theme-font-type-sans: "source-sans-pro" !default;
 
 // serif
-$theme-font-type-serif: "merriweather" !default;
+$theme-font-type-serif: "verdana" !default;
 
 /*
 ----------------------------------------
@@ -300,15 +300,15 @@ values from the USWDS system type scale
 ----------------------------------------
 */
 
-$theme-type-scale-3xs: 2 !default;
-$theme-type-scale-2xs: 3 !default;
-$theme-type-scale-xs: 4 !default;
-$theme-type-scale-sm: 5 !default;
-$theme-type-scale-md: 9 !default;
-$theme-type-scale-lg: 15 !default;
-$theme-type-scale-xl: 17 !default;
-$theme-type-scale-2xl: 19 !default;
-$theme-type-scale-3xl: 20 !default;
+$theme-type-scale-3xs: 1 !default;
+$theme-type-scale-2xs: 2 !default;
+$theme-type-scale-xs: 3 !default;
+$theme-type-scale-sm: 4 !default;
+$theme-type-scale-md: 6 !default;
+$theme-type-scale-lg: 11 !default;
+$theme-type-scale-xl: 12 !default;
+$theme-type-scale-2xl: 13 !default;
+$theme-type-scale-3xl: 14 !default;
 
 /*
 ----------------------------------------
@@ -321,10 +321,10 @@ Or use `false` for unneeded weights.
 
 $theme-font-weight-thin: false !default;
 $theme-font-weight-light: 250 !default;
-$theme-font-weight-normal: 470 !default;
+$theme-font-weight-normal: 400 !default;
 $theme-font-weight-medium: false !default;
 $theme-font-weight-semibold: false !default;
-$theme-font-weight-bold: 800 !default;
+$theme-font-weight-bold: 600 !default;
 $theme-font-weight-heavy: false !default;
 
 // If USWDS is generating your @font-face rules,
