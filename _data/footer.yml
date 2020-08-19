@@ -31,19 +31,19 @@ logos:
 contact:
   # Configuration for social media links
   # Comment out links you don't want to use (RSS is an example)
-  #social_links:
-#    - text: Facebook
-#      href: https://facebook.com
-#      external: true
-#      type: facebook
-#    - text: Twitter
-#      href: https://twitter.com
-#      external: true
-#      type: twitter
-#    - text: YouTube
-#      href: https://youtube.com
-#      external: true
-#      type: youtube
+  social_links:
+    - text: KofC Facebook
+      href: https://facebook.com/profile.php?id=75774105475
+      external: true
+      type: facebook
+    - text: @KofC Twitter
+      href: https://www.twitter.com/KofC
+      external: true
+      type: twitter
+    - text: KofC YouTube
+      href: https://www.youtube.com/channel/UCakeGr5Z-VqLJFoJ6vCh-DQ
+      external: true
+      type: youtube
   # - text: RSS Feed
   #   href: https://usa.gov/
   #   external: true
