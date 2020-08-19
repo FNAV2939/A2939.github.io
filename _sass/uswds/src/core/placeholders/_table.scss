@@ -23,7 +23,7 @@
   th,
   td {
     @include u-border(0, "base-dark");
-    background-color: color("Gray 10");
+    background-color: color("gray-10");
     font-weight: $theme-font-weight-normal;
     padding: units(1) units(2);
   }
