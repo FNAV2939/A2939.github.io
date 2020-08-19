@@ -95,10 +95,10 @@ footer:
     href: /ext/
   - text: Privacy policy
     href: /priv/
-   links:
-     - text: Demo link A
-       href: /three/a/
-     - text: Demo link B
-       href: /three/b/
-     - text: Demo link C
-       href: /three/c/
+  links:
+    - text: Demo link A
+      href: /three/a/
+    - text: Demo linkB
+      href: /three/b/
+    - text: Demo link C
+      href: /three/c/
