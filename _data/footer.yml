@@ -36,7 +36,7 @@ contact:
       href: https://facebook.com/profile.php?id=75774105475
       external: true
       type: facebook
-    - text: @KofC Twitter
+    - text: '@KofC Twitter'
       href: https://www.twitter.com/KofC
       external: true
       type: twitter
