@@ -22,7 +22,7 @@ links: footer
 big_footer_signup_form: false
 
 # Configuration for footer heading. (optional)
-heading: |-
+heading: |
   Knights of Columbus 4th Degree
   Pope John Paul II Assembly 2939
 
