@@ -18,14 +18,11 @@ primary:
     href: /docs/
   - text: Navigation section
     links:
-      - text: St. Catherine of Alexandria Council no.8265 Morgan Hill, CA
+      - text: St. Catherine of Alexandria Council 8265 Morgan Hill, CA
         href: https://stca.org/knights-of-columbus
         external: true
-      - text: St. Mary Council no.2469 Gilroy, CA
+      - text: St. Mary Council 2469 Gilroy, CA
         href: https://kofc2469.org/
-        external: true
-      - text: Knights of Columbus
-        href: https://www.kofc.org/en/index.html
         external: true
       - text: St. Mary Parish, Gilroy, CA
         href: https://smpgilroy.org/
@@ -38,6 +35,9 @@ primary:
         external: true
       - text: United States Conference of Catholic Bishops
         href: https://www.usccb.org/
+        external: true
+      - text: Knights of Columbus
+        href: https://www.kofc.org/en/index.html
         external: true
       - text: The Vatican
         href: http://www.vatican.va/content/vatican/en.html
@@ -89,16 +89,30 @@ footer:
       - text: Demo link C
         href: /two/c/
   - text: External links
-    href: /docs/
     links:
-      - text: KofC
-        href: https://www.kofc.org/en//index.html
+      - text: St. Catherine of Alexandria Council 8265 Morgan Hill, CA
+        href: https://stca.org/knights-of-columbus
         external: true
-      - text: DSJ
-        href: hhttps://www.dsj.org/
+      - text: St. Mary Council 2469 Gilroy, CA
+        href: https://kofc2469.org/
         external: true
-      - text: USCCB
+      - text: St. Mary Parish, Gilroy, CA
+        href: https://smpgilroy.org/
+        external: true
+      - text: St. Catherine of Alexandria Parish, Morgan Hill, CA
+        href: https://stca.org/
+        external: true
+      - text: Diocese of San Jose
+        href: https://www.dsj.org/
+        external: true
+      - text: United States Conference of Catholic Bishops
         href: https://www.usccb.org/
+        external: true
+      - text: Knights of Columbus
+        href: https://www.kofc.org/en/index.html
+        external: true
+      - text: The Vatican
+        href: http://www.vatican.va/content/vatican/en.html
         external: true
   - text: Privacy policy
     href: /priv/
