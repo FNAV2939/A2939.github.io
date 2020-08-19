@@ -16,7 +16,7 @@ program agree to purchase a chalice to be given to a priest after the passing of
 member. The members name is engraved on the base of the chalice as a memorial to that
 member. Please contact the worthy Comptroller to take part in this program.
 
-<p align="center"><img src="../assets/img/4thdeg.jpg" width="300"></p>
+<p align="center"><img src="../assets/img/4thdeg.jpg" width="400"></p>
 
 ## Honor Guard Regalia
 
