@@ -1,4 +1,4 @@
-<div style="background-image: url('gold.JPG');">
+<div style="background-image: url('assets/img/gold.JPG');">
 
 <p align="center"><h2>Knights of Columbus 4th Degree &#x271E; Pope John Paul II Assembly 2939</h2></p>
 
