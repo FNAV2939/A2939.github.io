@@ -1,28 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 0px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
 </head>
 <table>
   <tr>
     <th> </th>
-    <th>Assembly Programs and Projects</th>
+    <th><p align="center">Assembly Programs and Projects</p></th>
     <th> </th>
   </tr>
   <tr>
