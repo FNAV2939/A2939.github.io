@@ -1,5 +1,3 @@
-
- <p align="center"><h1>Assembly Programs and Projects</h1></p>
   <table>
   <tr>
     <td> </td>
