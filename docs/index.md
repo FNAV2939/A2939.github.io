@@ -3,7 +3,7 @@
   <table>
   <tr>
     <td> </td>
-    <td><br><br><img src="../assets/img/waa.jpg" width="350" alt="Wreaths Across America">
+    <td><img src="../assets/img/waa.jpg" width="350" alt="Wreaths Across America">
    </td>
     <td> </td>
   </tr>
