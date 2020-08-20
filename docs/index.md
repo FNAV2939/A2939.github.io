@@ -1,9 +1,8 @@
 <table><tr><td></td><td><img src="../assets/img/waa.jpg" width="350" alt="Wreaths Across America"></td><td></td></tr><tr><td></td><td><h2><em>Wreaths Across America</em></h2><br>
-
 The Fourth Degree of the Knights of Columbus is the <em>PATRIOTIC</em> degree of the Order. 
 There is nothing more patriotic than honoring the graves of our fallen local
 Veteran Heroes. For the past three years we have made this a major project both 
-financially and as a service project. </td><hr><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br><img src="../assets/img/chalise2.jpg" width="400" alt="Chalice"></td><td></td></tr><tr><td></td><td><h2><em>The Chalice Program</em></h2>
+financially and as a service project. <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br><img src="../assets/img/chalise2.jpg" width="400" alt="Chalice"></td><td></td></tr><tr><td></td><td><h2><em>The Chalice Program</em></h2>
       The chalice program is available to any member of the assembly. Members who join the
 program agree to purchase a chalice to be given to a priest after the passing of the
 member. The members name is engraved on the base of the chalice as a memorial to that
