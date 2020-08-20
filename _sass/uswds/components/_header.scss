@@ -19,7 +19,7 @@
 
       @media($theme-header-min-width) {
         margin-top: 0;
-        height: units(5);
+        height: units(3);
       }
 
       & + .usa-logo__text {
@@ -30,7 +30,7 @@
 
   &.usa-header--extended .usa-logo-img {
     @include at-media($theme-header-min-width) {
-      height: units(5);
+      height: units(3);
     }
   }
 
