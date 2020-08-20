@@ -1,4 +1,3 @@
-<p align="center">4th Degree Assembly Programs & Projects</p>
 <table><tr><td></td><td><img src="../assets/img/waa.jpg" width="350" alt="Wreaths Across America"></td><td></td></tr><tr><td></td><td><h2><em>Wreaths Across America</em></h2><br>
 The Fourth Degree of the Knights of Columbus is the <em>PATRIOTIC</em> degree of the Order. 
 There is nothing more patriotic than honoring the graves of our fallen local
@@ -15,6 +14,5 @@ respect to the Order. With the new Fourth Degree uniform, recently approved by t
 of Directors, this honor and respect associated with Sir Knights will remain, and it will
 open the door more widely for a new generation to join their ranks. In a spirit of unity,
 let us assist with a smooth transition to this new uniform and encourage it to be worn
-with great dignity and pride.”
+with great dignity and pride.” <hr>
 </td><td></td></tr></table>
-
