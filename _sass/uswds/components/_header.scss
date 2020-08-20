@@ -14,12 +14,12 @@
 
     .usa-logo-img {
       float: left;
-      height: units(4);
+      height: units(7);
       margin-right: units(1);
 
       @media($theme-header-min-width) {
         margin-top: 0;
-        height: units(3);
+        height: units(7);
       }
 
       & + .usa-logo__text {
@@ -30,7 +30,7 @@
 
   &.usa-header--extended .usa-logo-img {
     @include at-media($theme-header-min-width) {
-      height: units(3);
+      height: units(7);
     }
   }
 
