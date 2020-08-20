@@ -10,8 +10,8 @@ sidenav-breakpoint: 'desktop'
 # can use that as your header's primary navigation by setting
 # `primary.links` to "primary":
 #
-primary:
-  links: primary
+#primary:
+#  links: primary
 
 primary:
   - text: Assembly Programs & Projects
