@@ -1,9 +1,6 @@
-<table>
-  <tr>
-    <th> </th>
-    <th><p align="center"><h1>Assembly Programs and Projects</h1></p></th>
-    <th> </th>
-  </tr>
+
+ <p align="center"><h1>Assembly Programs and Projects</h1></p></th>
+  <table>
   <tr>
     <td> </td>
     <td><br><br><img src="../assets/img/waa.jpg" width="350" alt="Wreaths Across America">
