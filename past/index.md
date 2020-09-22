@@ -14,4 +14,4 @@
 <tr><td>2010-2011<td>
 <tr><td>2009-2009<td>
                </table>
-               <td><img src="../assets/img/past.jpg">
+  <td><img src="../assets/img/past1.jpg" width="400"></td>
