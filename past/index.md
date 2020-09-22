@@ -1,4 +1,4 @@
-<h2>Sir Knights of the Pope John Paul II Assembly 2939 who have served as Faithful Navigator</h2>
+<h3>Past Faithful Navigators of Pope John Paul II Assembly 2939</h3>
 <table>
 <tr><td>2019-2020 <td>Victor Jimenez
 <tr><td>2018-2019 <td>Victor Jimenez
