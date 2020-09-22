@@ -1,6 +1,7 @@
 <html><body><h3>Past Faithful Navigators of Pope John Paul II Assembly 2939</h3>
-<table  style="width: 100% border: 1px solid black">
-               <tr><td>
+  
+<img src="../assets/img/past1.jpg" width="400" align="right">
+
 <table>
 <tr><td>2019-2020 <td>Victor Jimenez
 <tr><td>2018-2019 <td>Victor Jimenez
@@ -12,9 +13,7 @@
 <tr><td>2012-2013<td>
 <tr><td>2011-2012<td>
 <tr><td>2010-2011<td>
-  <tr><td>2009-2009<td></table>
-  
-<img src="../assets/img/past1.jpg" width="400" align="right">
+<tr><td>2009-2009<td>
 
 
 </body></html>
