@@ -73,8 +73,8 @@ docs:
 footer:
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.
-  - text: Documentation
-    href: /docs/
+  - text: Past Faithful Navigators
+    href: /past/
     links:
       - text: Overview
         href: /docs/
