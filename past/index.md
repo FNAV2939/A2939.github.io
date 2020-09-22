@@ -1,4 +1,4 @@
-<h3>Past Faithful Navigators of Pope John Paul II Assembly 2939</h3>
+<html><body><h3>Past Faithful Navigators of Pope John Paul II Assembly 2939</h3>
 <table  style="width: 100% border: 1px solid black">
                <tr><td>
 <table>
@@ -12,6 +12,9 @@
 <tr><td>2012-2013<td>
 <tr><td>2011-2012<td>
 <tr><td>2010-2011<td>
-<tr><td>2009-2009<td>
-            
-<img src="../assets/img/past1.jpg" width="400">
+  <tr><td>2009-2009<td></table>
+  
+<img src="../assets/img/past1.jpg" width="400" align="right">
+
+
+</body></html>
