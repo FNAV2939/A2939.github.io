@@ -17,4 +17,6 @@ both online and in person. Accordingly, members using social
 communications should remember that they are expected to
 conduct themselves as Catholic gentlemen, which at a minimum
 requires that any material posted online respects human dignity
-and maintains a culture of respectful dialogue and friendship.
+and maintains a culture of respectful dialogue and friendship.(Protocol Handbook, 2020)
+
+> Kofc.org. 2020. Protocol Handbook. [online] Available at: <http://www.kofc.org/en/forms/leadership/protocol-booklet1612.pdf> [Accessed 24 September 2020].
