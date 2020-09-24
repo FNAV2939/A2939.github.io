@@ -7,17 +7,6 @@
 
 <!-- Beginning of Main Table Items -->
 
-<img src="../assets/img/4thdeg.jpg" width="600" alt="Fourth Dregree Honor Guard Regalia"></td><td></td></tr><tr><td></td><td><h2>
-<em>Honor Guard Regalia</em></h2>
-During the convention, the Good of the Order Committee stated: “We commend all of the
-faithful Sir Knights who have proudly worn the Fourth Degree regalia, bringing much
-respect to the Order. With the new Fourth Degree uniform, recently approved by the Board
-of Directors, this honor and respect associated with Sir Knights will remain, and it will
-open the door more widely for a new generation to join their ranks. In a spirit of unity,
-let us assist with a smooth transition to this new uniform and encourage it to be worn
-with great dignity and pride.”
-<hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>   
-
 <img src="../assets/img/corps.jpg" width="800" alt="Color Corps of the Diocese of Cleveland, Ohio"><br><font size="1" align="right">Color Corps / Diocese of Cleveland</font></td><td></td></tr><tr><td></td><td><h2>
 <em>Color Corps</em></h2>
 Members of the 4th Degree are eligible to become part of the Color Corps.
@@ -30,6 +19,18 @@ Color Corps members exemplify all four principles of the Knights of Columbus.
 * <em>Fraternity</em> though membership in a close-knit group and esprit de corps.
 * <em>Patriotism</em> -- Precision drills are a salute to God and our country. They visually exhibit a love for both.
 <hr>
+  
+<img src="../assets/img/4thdeg.jpg" width="600" alt="Fourth Dregree Honor Guard Regalia"></td><td></td></tr><tr><td></td><td><h2>
+<em>Honor Guard Regalia</em></h2>
+During the convention, the Good of the Order Committee stated: “We commend all of the
+faithful Sir Knights who have proudly worn the Fourth Degree regalia, bringing much
+respect to the Order. With the new Fourth Degree uniform, recently approved by the Board
+of Directors, this honor and respect associated with Sir Knights will remain, and it will
+open the door more widely for a new generation to join their ranks. In a spirit of unity,
+let us assist with a smooth transition to this new uniform and encourage it to be worn
+with great dignity and pride.”
+<hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>   
+
 
 <a href="https://www.woundedwarriorproject.org"><img src="../assets/img/warrior.png" width="350" alt="The Wounded Warrior Project"></a>
 <a href="http://eastbaystanddown.org"><img src="../assets/img/eastbaystanddown.gif" width="200" alt="East Bay Stand Down"></a>
