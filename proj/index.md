@@ -47,9 +47,9 @@ Color Corps members exemplify all four principles of the Knights of Columbus.
 * <em>Patriotism</em> -- Precision drills are a salute to God and our country. They visually exhibit a love for both.
 <hr>
       
-<a href="https://www.woundedwarriorproject.org"><img src="../assets/img/warrior.png" width="300" alt="The Wounded Warrior Project"></a>
+<a href="https://www.woundedwarriorproject.org"><img src="../assets/img/warrior.png" width="350" alt="The Wounded Warrior Project"></a>
 <a href="http://eastbaystanddown.org"><img src="../assets/img/eastbaystanddown.gif" width="200" alt="East Bay Stand Down"></a>
-<a href="https://tunnel2towers.org"><img src="../assets/img/tunnel.png" width="250" alt="Stephen Siller Tunnel To Towers Foundation"></a>
+<a href="https://tunnel2towers.org"><img src="../assets/img/tunnel.png" width="275" alt="Stephen Siller Tunnel To Towers Foundation"></a>
 </td><td></td></tr><tr><td></td><td><h2>
 <em>Support for Patriotic Charities</em></h2>
 Pope John Paul II Assembly 2939 provides annual or biennial finacial donations to select patriotic charitable organizations in the US.
