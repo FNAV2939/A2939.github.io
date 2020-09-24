@@ -20,17 +20,14 @@ open the door more widely for a new generation to join their ranks. In a spirit 
 let us assist with a smooth transition to this new uniform and encourage it to be worn
 with great dignity and pride.” <hr>
 </td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>   
-<img src="../assets/img/corps.jpg" width="800" alt="Color Coprs"></td><td></td></tr><tr><td></td><td><h2><em>Color Corps</em></h2>
-  Members of the 4 th Degree are eligible to become part of the Color Corps.
-
+<img src="../assets/img/corps.jpg" width="800" alt="Color Corps of the Diocese of Cleveland, Ohio"><br><font size="1">Color Corps / Diocese of Cleveland</font></td><td></td></tr><tr><td></td><td><h2><em>Color Corps</em></h2>
+  Members of the 4th Degree are eligible to become part of the Color Corps.
 Perhaps you have seen the Color Corps in a parade, a funeral or a liturgical event in the church.
 With our knightly garb, maybe you have seen us, as have millions, on television.
 The Color Corps is the highly visible arm of the Knights of Columbus.
 Color Corps members exemplify all four principles of the Knights of Columbus.
-Charity by free and willing sacrifice of time and energy to practice and perform the ceremonials.
-
-Unity by coordinated drill in a body of men.
-
-Fraternity though membership in a close-knit group and esprit de corps.
-Patriotism -precision drills are a salute to God and our country. They visually exhibit a love for both. <hr>
+1. Charity by free and willing sacrifice of time and energy to practice and perform the ceremonials.
+2. Unity by coordinated drill in a body of men.
+3. Fraternity though membership in a close-knit group and esprit de corps.
+4. Patriotism -precision drills are a salute to God and our country. They visually exhibit a love for both. <hr>
 </td><td></td></tr></table>
