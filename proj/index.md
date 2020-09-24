@@ -7,7 +7,7 @@
 
 <!-- Beginning of Main Table Items -->
 
-<img src="../assets/img/waa.jpg" width="350" alt="Wreaths Across America"></td><td></td></tr><tr><td></td><td><h2>
+<img src="../assets/img/wreathslogo.png" width="600" alt="Wreaths Across America"></td><td></td></tr><tr><td></td><td><h2>
 <em>Wreaths Across America</em></h2>
 The Fourth Degree of the Knights of Columbus is the <em>PATRIOTIC</em> degree of the Order. 
 There is nothing more patriotic than honoring the graves of our fallen local
